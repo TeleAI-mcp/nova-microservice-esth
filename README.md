@@ -1,2 +1,3 @@
-# nova-microservice-esth
-A microservice architecture for modern development workflows
+# Nova Microservice Esth
+
+A microservice architecture for modern development workflows.
